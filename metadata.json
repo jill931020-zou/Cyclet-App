@@ -1,0 +1,6 @@
+{
+  "name": "Cyclet 模組力學驗證 App",
+  "description": "互動式模組家具力學模擬工具，驗證跨距、載重與壁厚對結構安全性的影響。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
